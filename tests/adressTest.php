@@ -1,6 +1,4 @@
 <?php
-require_once 'Base.php';
-
 class adressTest extends PHPUnit_Framework_TestCase
 {
     /**

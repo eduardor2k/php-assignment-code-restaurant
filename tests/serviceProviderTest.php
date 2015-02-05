@@ -1,6 +1,4 @@
 <?php
-require_once 'Base.php';
-
 class serviceProviderTest extends PHPUnit_Framework_TestCase
 {
     /**

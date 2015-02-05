@@ -1,6 +1,4 @@
 <?php
-require_once 'Base.php';
-
 class autoloaderTest extends PHPUnit_Framework_TestCase
 {
     public function testDefault()
